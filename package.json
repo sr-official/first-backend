@@ -1,19 +1,15 @@
 {
   "name": "yt-project",
   "version": "1.0.0",
-  "description": "a backend practice project",
-  "type": "module",
+  "description": "first backend code project",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon src/index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "JavaScript",
     "backend"
   ],
   "author": "Md Saydur Rahman",
-  "license": "ISC",
-  "devDependencies": {
-    "nodemon": "^3.1.7"
-  }
+  "license": "ISC"
 }
